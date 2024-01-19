@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 About Me:
 
-<!--
-**Otmanmarzouki/Otmanmarzouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Portfolio.
+- 🌱 I’m currently learning more about Fullstack Web development.
+- 💬 Ask me about any tech-related stuff.
+- ⚡ Fun fact: Coding can “Power Up” your brain.
+- 📫 How to reach me: Website: 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Socials:
+
+
+# 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Otmanmarzouki&theme=onedark&no-bg=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otmanmarzouki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Otmanmarzouki&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
