@@ -1,7 +1,7 @@
 # 👋 About Me:
 
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning more about Reactjs and nextjs.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Coding can “Power Up” your brain.
 - 📫 How to reach me: https://otmanmarzouki.github.io/Otmans-Portfolio.github.io/
