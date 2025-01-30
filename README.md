@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Coding can “Power Up” your brain.
-- 📫 some glimpse bout my story : https://otmanmarzouki.github.io/Otmans-Portfolio.github.io/
+- 📫 some glimpses bout my story : https://otmanmarzouki.github.io/Otmans-Portfolio.github.io/
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
