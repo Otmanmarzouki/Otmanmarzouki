@@ -1,7 +1,7 @@
 # 👋 About Me:
 
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning SpringBoot.
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: Coding can “Power Up” your brain.
 - 📫 some glimpses bout my story : https://otmanmarzouki.github.io/Otmans-Portfolio.github.io/
@@ -14,6 +14,8 @@
 ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring--boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 
 
